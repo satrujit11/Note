@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ElixirNotes.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElixirNotes.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElixirNotes.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElixirNotes.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "7713e3e7df298a81",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Tasks.md",
+    "ElixirNotes.md",
     "Note.md",
     "Gate2025.md",
-    "ElixirNotes.md",
     "assets/imgs/image.png",
     "Gate2025.md~",
     "ElixirNotes.md~",
     "Note.md~",
     "Tasks.md~",
     "Untitled 1.canvas",
-    "2024-09-09.md",
-    "Untitled.canvas"
+    "2024-09-09.md"
   ]
 }
